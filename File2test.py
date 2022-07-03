@@ -1,0 +1,1 @@
+print('Тестируем GitBash')
